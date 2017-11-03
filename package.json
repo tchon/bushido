@@ -1,22 +1,22 @@
 {
-  "name": "yojimbo",
+  "name": "bushido",
   "version": "0.0.1",
-  "description": "yojimbo the js",
+  "description": "bushido js",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tchon/yojimbo.git"
+    "url": "git+https://github.com/tchon/bushido.git"
   },
   "keywords": [
-    "yojimbo"
+    "bushido"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tchon/yojimbo/issues"
+    "url": "https://github.com/tchon/bushido/issues"
   },
-  "homepage": "https://github.com/tchon/yojimbo#readme"
+  "homepage": "https://github.com/tchon/bushido#readme"
 }
